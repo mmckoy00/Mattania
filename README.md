@@ -2,7 +2,7 @@
 
 ![Brown and Cream Motivational LinkedIn Banner](https://user-images.githubusercontent.com/47528508/136643141-5ed4e1db-bd9a-4ba1-a2b9-e131a02a6485.png)
 
-#### I'm a junior software developer who is passionate about learning new technologies and approaches about software development. 
+#### I'm a software developer who is passionate about learning new technologies and approaches about software development. 
 - ⚡ Fun fact: I love to watching k-dramas and exploring the great outdoors  a.k.a my front yard 😃.
 
 - 🌱 I'm currently learning php 
