@@ -1,8 +1,6 @@
 ### Hey, I'm Mattania👋
-
-![Brown and Cream Motivational LinkedIn Banner](https://user-images.githubusercontent.com/47528508/136643141-5ed4e1db-bd9a-4ba1-a2b9-e131a02a6485.png)
-
-
+- 🔭 I’m currently working on Java Complaint Management System
+- 🌱 I’m currently learning Java
 <!--
 #### Find Me
 **Mattania/Mattania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
