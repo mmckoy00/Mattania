@@ -1,5 +1,4 @@
 ### Hey, I'm Mattania👋
-- 🔭 I’m currently working on Java Complaint Management System
 - 🌱 I’m currently learning Java
 <!--
 #### Find Me
