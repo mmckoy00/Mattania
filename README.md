@@ -1,5 +1,6 @@
 ### Hey, I'm Mattania👋
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Springboot framework
+- 🔭 I’m currently working on Complaint Management System using Springboot
 <!--
 #### Find Me
 **Mattania/Mattania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
